@@ -1,7 +1,6 @@
 # Hi, I'm Jashan ✨
 
 🎓 Computer Science Student<br/>
-💻 Aspiring Full Stack Developer<br/>
 🌟 Passionate about tech and building cool stuff<br/>
 🚀 On a journey to turn ideas into reality<br/>
 
